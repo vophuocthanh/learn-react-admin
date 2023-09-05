@@ -3,8 +3,8 @@
 ## Features
 - Product Management
 - ## How to run
-  Frontend: npm start
-  Backend: npm run server
+  - Frontend: npm start
+  - Backend: npm run server
 - ## Frontend
 
 Tech stack:
